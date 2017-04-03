@@ -1,0 +1,9 @@
+#container{
+  width: 800px;
+    margin: auto;
+}
+
+#canvas{
+    background-color: lightgray;
+    border: 2px solid black
+}
